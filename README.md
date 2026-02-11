@@ -1,78 +1,136 @@
-Hack made by Kurisu
-https://x.com/KurisuArs
+# Moémon Platinum Patch
 
-Moémon Official
-https://discord.gg/fHPHSVNaqQ
+**Hack made by Kurisu**  
+https://x.com/KurisuArs  
 
-Moémon Project
-https://discord.gg/Ds7bjJMumn
+**Moémon Official**  
+https://discord.gg/fHPHSVNaqQ  
 
-
-Table of Contents:
-1. WHAT DOES THIS PATCH DO?
-2. DISCLAIMER
-3. PATCHING ON PC
-4. PATCHING ON MOBILE (ANDROID)
-5. HOW TO USE MOEMON SPRITES ON OTHER PLATINUM HACKS (OR RANDOMIZED ROMS)
+**Moémon Project**  
+https://discord.gg/Ds7bjJMumn  
 
 
-1. WHAT DOES THIS PATCH DO?
-- Replaces all the Pokémon sprites with Moemon sprites
-- Makes all the Pokémon obtainable (Gens 1-4)
-- Replaces all mentions of "Pokemon" in texts with "Moemon"
-- Restores ALL the ingame events that required limited event Pokémon
-- Adds a new mini-event to obtain legendaries (check Canalave City's NPCs)
-- Replaces Spiritomb obtention method
-- Makes Rotom forms change types like Gen 5+ games
-- Unlocks National Dex at start (you still need to see all 210 Pokémon in the expanded Sinnoh Pokédex and then talk to Professor Rowan to unlock Poké Radar)
-- Replaces trade evolutions methods and adds extra methods for some Pokémon
-- Adds evolution items to Veilstone Department Store
-- Instant Fossil revive
-- Some HMs can be used without learning them (Waterfall, Strength, Rock Climb, Cut, and Rock Smash)
+**GOOGLE DRIVE link with all the patches and files**  
+https://tinyurl.com/KurisuMoemon
+
+---
+
+## Table of Contents
+
+1. [What Does This Patch Do?](#what-does-this-patch-do)
+2. [Disclaimer](#disclaimer)
+3. [Patching on PC](#patching-on-pc)
+4. [Patching on Mobile (Android)](#patching-on-mobile-android)
+5. [Using Moémon Sprites on Other Platinum Hacks](#using-moémon-sprites-on-other-platinum-hacks-or-randomized-roms)
+6. [Legal Notice](#legal-notice)
+
+---
+
+## What Does This Patch Do?
+
+This patch modifies **Pokémon Platinum** with the following features:
+
+### Core Changes
+
+- Replaces all Pokémon sprites with **Moémon sprites**
+- Makes **all Pokémon from Generations 1–4 obtainable**
+- Replaces all mentions of "Pokemon" in text with "Moemon"
+- Restores **all in-game events** that required limited event Pokémon
+- Adds a **new mini-event** to obtain legendaries (check NPCs in Canalave City)
+- Replaces Spiritomb's original obtention method
+- Rotom forms now change types (like Gen 5+ games)
+- Unlocks **National Dex at the start**
+  - You still need to see all 210 Pokémon in the expanded Sinnoh Pokédex and speak to Professor Rowan to unlock the Poké Radar
+
+### Quality-of-Life Improvements
+
+- Replaces trade evolution methods and adds extra evolution methods for some Pokémon
+- Adds evolution items to the Veilstone Department Store
+- Instant fossil revival
+- Some HMs usable without learning them:
+  - Waterfall  
+  - Strength  
+  - Rock Climb  
+  - Cut  
+  - Rock Smash
 - Instant Honey Trees
-- Adds a NPC to change the game on GBA slot to get exlusive encounters (Veilstone City)
+- NPC in Veilstone City to change the GBA slot game for exclusive encounters
 - Infinite TMs & Forgettable HMs
-- Increases HP bar speed (especially noticeable at lower levels)
-- Changes the title and intro
-- Increases female ratio
-- Increases shiny rate to 1/257
+- Faster HP bar speed (especially noticeable at lower levels)
+- Changes the title screen and intro
+- Increased female ratio
+- Increased shiny rate to **1/257**
 
+---
 
-2. DISCLAIMER
-Stuff not mentioned remains the same as base Platinum
-The sprites are made for GBA:
-- Some animations will move up the backs showing they aren't full body
-- Some sprites may not look that good in dark backgrounds
-Tested on PC using MelonDS 0.9.5
-Tested on 3DS using Twilight Menu
-Tested on Android using DraStic DS
+## Disclaimer
 
+- Anything not mentioned remains the same as base Pokémon Platinum.
+- The sprites were originally made for GBA, so:
+  - Some animations may move upward, revealing incomplete back sprites
+  - Some sprites may not look optimal on darker backgrounds
 
-How to patch (choose ONLY 1 method):
+### Tested On
 
-3. PATCHING ON PC
-- Download Delta Patcher Lite from the GDrive folder
-- Open Delta Patcher Lite
-- In "Original file" you should open a Platinum rom (download one somewhere), patch should be compatible with any
-- In "XDelta patch" you should open the patch file, it has [Patch] in the name and .xdelta extension
-- Then you press Apply patch
-- Ready to play
+- PC — MelonDS 0.9.5  
+- Nintendo 3DS — Twilight Menu  
+- Android — DraStic DS  
 
-4. PATCHING ON MOBILE (ANDROID)
-- Download and install Unipatcher
-- Open Unipatcher
-- In "Patch file" you should open the patch file, it has [Patch] in the name and .xdelta extension
-- In "ROM file" you should open a Platinum rom (download one somewhere), patch should be compatible with any
-- In "Output file" you select a folder to save the patched rom
-- Then you tap the red button and wait a bit
-- Ready to play
+---
 
-5. HOW TO USE MOEMON SPRITES ON OTHER PLATINUM HACKS (OR RANDOMIZED ROMS)
-- You don't need the patch. Don't use it
-- Open Nitro Explorer 2 and Load the game (the romhack or the already randomized rom)
-- Reinsert "pl_pokegra.narc" at poketool/pokegra/pl_pokegra
-- Reinsert "pl_otherpoke.narc" at poketool/pokegra/pl_otherpoke
-- Reinsert "height.narc" at poketool/pokegra/height
-- Reinsert "height_o.narc" at poketool/pokegra/height_o
-- Reinsert "pl_poke_data.narc" at poketool/poke_edit/pl_poke_data
-- Ready to play
+# How to Patch  
+**Choose ONLY one method**
+
+---
+
+## Patching on PC
+
+1. Download **Delta Patcher Lite** (from the provided Google Drive folder).
+2. Open Delta Patcher Lite.
+3. Under **Original file**, select a Pokémon Platinum ROM  
+   (The patch should be compatible with any Platinum ROM.)
+4. Under **XDelta patch**, select the patch file  
+   (It contains `[Patch]` in the name and has a `.xdelta` extension.)
+5. Click **Apply patch**.
+6. Done — you're ready to play.
+
+---
+
+## Patching on Mobile (Android)
+
+1. Download and install **UniPatcher**.
+2. Open UniPatcher.
+3. In **Patch file**, select the `.xdelta` patch file  
+   (Contains `[Patch]` in the name.)
+4. In **ROM file**, select a Pokémon Platinum ROM.
+5. In **Output file**, choose a folder where the patched ROM will be saved.
+6. Tap the red button and wait.
+7. Done — you're ready to play.
+
+---
+
+## Using Moémon Sprites on Other Platinum Hacks (or Randomized ROMs)
+
+⚠️ Do **not** use the patch for this method.
+
+1. Open **Nitro Explorer 2**.
+2. Load the ROM hack or randomized ROM.
+3. Reinsert the following files:
+
+| File | Location |
+|------|----------|
+| `pl_pokegra.narc` | `poketool/pokegra/pl_pokegra` |
+| `pl_otherpoke.narc` | `poketool/pokegra/pl_otherpoke` |
+| `height.narc` | `poketool/pokegra/height` |
+| `height_o.narc` | `poketool/pokegra/height_o` |
+| `pl_poke_data.narc` | `poketool/poke_edit/pl_poke_data` |
+
+4. Save the ROM.
+5. Done — ready to play.
+
+---
+
+## Legal Notice
+
+This patch does **not** include a ROM file.  
+You must supply your own legally obtained copy of Pokémon Platinum.
