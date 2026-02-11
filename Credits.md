@@ -1,12 +1,12 @@
 # Credits
 
 **Hack made by Kurisu**  
-Twitter/X: https://x.com/KurisuArs  
+https://x.com/KurisuArs  
 
-**Moémon Official Discord:**  
+**Moémon Official**  
 https://discord.gg/fHPHSVNaqQ  
 
-**Moémon Project Discord:**  
+**Moémon Project**  
 https://discord.gg/Ds7bjJMumn  
 
 ---
