@@ -1,4 +1,4 @@
-# Moémon Platinum Patch
+# Moémon Platinum Vanilla+ Patch
 
 **Hack made by Kurisu**  
 https://x.com/KurisuArs  
